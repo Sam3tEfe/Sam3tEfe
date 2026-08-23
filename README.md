@@ -1,22 +1,20 @@
 # 👋 Merhaba, Ben Samet Efe
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <Embedded+Systems;IT+Infrastructure+%26+Networking" alt="Typing SVG" />
-  
-
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=26&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=800&height=100&lines=⚡+SAMET+EFE;🔌+ELECTRICAL+%26+ELECTRONICS+ENGINEER;💻+HARDWARE,+NETWORKING+%26+IT;🚀+ALWAYS+LEARNING..." alt="LED Pano" />
+</div>
 
 <br>
 
-### Elektrik-Elektronik Mühendisliği Öğrencisi
+## 🎓 Elektrik-Elektronik Mühendisliği Öğrencisi
 
 > **Kırklareli** Kırklareli Üniversitesi Elektrik-Elektronik Mühendisliği öğrencisiyim. Donanımın çalışma mantığından IT sistemlerine ve yazılım geliştirmeye kadar teknolojinin birçok farklı katmanında kendimi eğitiyorum. Amacım, öğrendiğim her yeni bilgiyi koda ve pratiğe dökerek kendimi sürekli geliştirmeye devam etmek.
 
 ---
 
-### 🛠️ Teknolojiler & Araçlar
+## 🛠️ Teknolojiler & Araçlar
 
-**Programlama Dilleri**
+#### 💻 Programlama Dilleri
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -25,7 +23,7 @@
   <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
-**Mikrodenetleyiciler & Donanım**
+#### ⚙️ Mikrodenetleyiciler & Donanım
 <p>
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
@@ -34,7 +32,7 @@
   <img src="https://img.shields.io/badge/Fortinet_Firewall_(FortiGate_3100D)-C81326?style=for-the-badge&logo=fortinet&logoColor=white" />
 </p>
 
-**Araçlar & Teknolojiler**
+#### 🧰 Araçlar & Teknolojiler
 <p>
   <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
@@ -45,7 +43,7 @@
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
-**Mühendislik & Simülasyon**
+#### 📡 Mühendislik & Simülasyon
 <p>
   <img src="https://img.shields.io/badge/CST_Studio_Suite-FFB71B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
@@ -53,7 +51,7 @@
 
 ---
 
-### 🚀 Nelerle Uğraşıyorum?
+## 🚀 Nelerle Uğraşıyorum?
 
 > **🔭 Aktif Olarak:** Bir yandan TÜBİTAK destekli mikroşerit yama anten projesinde donanım tasarımı yapıyor, diğer yandan BT altyapıları için **FortiGate firewall ve Cisco switch** yönetim pratikleri gerçekleştiriyorum.
 
@@ -65,7 +63,7 @@
 
 ---
 
-### 📊 GitHub İstatistikleri
+## 📊 GitHub İstatistikleri
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sam3tEfe&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="48%" />
@@ -74,7 +72,7 @@
 
 ---
 
-### 🤝 Benimle İletişime Geçin
+## 🤝 Benimle İletişime Geçin
 <p>
   <a href="https://www.linkedin.com/in/samet-efe-1909b725a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:samet3fe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
