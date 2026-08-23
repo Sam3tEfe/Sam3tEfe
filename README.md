@@ -6,9 +6,11 @@
   </a>
 </div>
 
-### Elektrik-Elektronik Mühendisliği Öğrencisi
+<br>
 
-**Kırklareli** Kırklareli Üniversitesi Elektrik-Elektronik Mühendisliği öğrencisiyim. Donanımın çalışma mantığından IT sistemlerine ve yazılım geliştirmeye kadar teknolojinin birçok farklı katmanında kendimi eğitiyorum. Amacım, öğrendiğim her yeni bilgiyi koda ve pratiğe dökerek kendimi sürekli geliştirmeye devam etmek.
+### 🎓 Elektrik-Elektronik Mühendisliği Öğrencisi
+
+> **Kırklareli** Kırklareli Üniversitesi Elektrik-Elektronik Mühendisliği öğrencisiyim. Donanımın çalışma mantığından IT sistemlerine ve yazılım geliştirmeye kadar teknolojinin birçok farklı katmanında kendimi eğitiyorum. Amacım, öğrendiğim her yeni bilgiyi koda ve pratiğe dökerek kendimi sürekli geliştirmeye devam etmek.
 
 ---
 
@@ -53,18 +55,22 @@
 
 ### 🚀 Nelerle Uğraşıyorum?
 
-* **🔭 Aktif Olarak:** Bir yandan TÜBİTAK destekli mikroşerit yama anten projesinde donanım tasarımı yapıyor, diğer yandan BT altyapıları için **FortiGate firewall ve Cisco switch** yönetim pratikleri gerçekleştiriyorum.
-* **🌱 Öğrendiklerim:** Gömülü sistemler tarafında Arduino ve ESP32 ile başladığım yolculuğu, STM32 mimarisi ve C programlama ile derinleştiriyorum. Fakat sadece donanımla yetinmeyip işin altyapı ve güvenlik boyutunu da kavramak için, Cisco switch ve FortiGate firewall cihazlarını yapılandırarak IT ve siber güvenlik alanlarında kendimi eğitiyorum.
-* **🎯 Hedeflerim:** Tek bir alanla kısıtlı kalmadan; donanım, yazılım ve IT dünyalarının kesişimini keşfetmek ve fırsat bulduğum her an kendimi olabildiğince geliştirerek mühendislik becerilerimi en üst noktaya taşımak.
-* **💬 Sohbet & İş Birliği:** STM32 donanım arayüzleri, Cisco/FortiGate ağ yapılandırmaları ve CST Studio anten simülasyonları hakkında sohbet edebilir veya hayata geçirmek istediğiniz yeni proje fikirleri için bir takım arkadaşı arıyorsanız benimle iletişime geçebilirsiniz.
+> **🔭 Aktif Olarak:** Bir yandan TÜBİTAK destekli mikroşerit yama anten projesinde donanım tasarımı yapıyor, diğer yandan BT altyapıları için **FortiGate firewall ve Cisco switch** yönetim pratikleri gerçekleştiriyorum.
+
+> **🌱 Öğrendiklerim:** Gömülü sistemler tarafında Arduino ve ESP32 ile başladığım yolculuğu, STM32 mimarisi ve C programlama ile derinleştiriyorum. Fakat sadece donanımla yetinmeyip işin altyapı ve güvenlik boyutunu da kavramak için, Cisco switch ve FortiGate firewall cihazlarını yapılandırarak IT ve siber güvenlik alanlarında kendimi eğitiyorum.
+
+> **🎯 Hedeflerim:** Tek bir alanla kısıtlı kalmadan; donanım, yazılım ve IT dünyalarının kesişimini keşfetmek ve fırsat bulduğum her an kendimi olabildiğince geliştirerek mühendislik becerilerimi en üst noktaya taşımak.
+
+> **💬 Sohbet & İş Birliği:** STM32 donanım arayüzleri, Cisco/FortiGate ağ yapılandırmaları ve CST Studio anten simülasyonları hakkında sohbet edebilir veya hayata geçirmek istediğiniz yeni proje fikirleri için bir takım arkadaşı arıyorsanız benimle iletişime geçebilirsiniz.
 
 ---
 
 ### 📊 GitHub İstatistikleri
+*(Not: İstatistiklerin çalışması için aşağıdaki GITHUB_KULLANICI_ADIN yazan yerlere kendi kullanıcı adını girmeyi unutma)*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sam3tEfe&show_icons=true&theme=radium&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam3tEfe&theme=radium&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADIN&show_icons=true&theme=radium&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GITHUB_KULLANICI_ADIN&theme=radium&hide_border=true" width="48%" />
 </div>
 
 ---
