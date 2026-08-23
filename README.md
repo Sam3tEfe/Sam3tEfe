@@ -5,7 +5,7 @@
 <br>
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=100&section=header&text=Hakkimda&fontSize=35&fontColor=ffffff&animation=fadeIn" width="300" alt="Hakkımda" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=100&section=header&text=Hakkimda&fontSize=35&fontColor=ffffff&animation=fadeIn" width="420" alt="Hakkımda" />
 </p>
 
 > **Kırklareli Üniversitesi** Elektrik-Elektronik Mühendisliği öğrencisiyim. Donanımın çalışma mantığından IT sistemlerine ve yazılım geliştirmeye kadar teknolojinin birçok farklı katmanında kendimi eğitiyorum. Amacım, öğrendiğim her yeni bilgiyi koda ve pratiğe dökerek kendimi sürekli geliştirmeye devam etmek.
@@ -65,18 +65,7 @@
 
 > **💬 Sohbet & İş Birliği:** STM32 donanım arayüzleri, Cisco/FortiGate ağ yapılandırmaları ve CST Studio anten simülasyonları hakkında sohbet edebilir veya hayata geçirmek istediğiniz yeni proje fikirleri için bir takım arkadaşı arıyorsanız benimle iletişime geçebilirsiniz.
 
----
-
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=100&section=header&text=GitHub%20Istatistikleri&fontSize=35&fontColor=ffffff&animation=fadeIn" width="420" alt="GitHub İstatistikleri" />
-</p>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sam3tEfe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam3tEfe&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam3tEfe&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 ---
