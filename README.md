@@ -66,11 +66,10 @@
 ---
 
 ### 📊 GitHub İstatistikleri
-*(Not: İstatistiklerin çalışması için aşağıdaki GITHUB_KULLANICI_ADIN yazan yerlere kendi kullanıcı adını girmeyi unutma)*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADIN&show_icons=true&theme=radium&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GITHUB_KULLANICI_ADIN&theme=radium&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sam3tEfe&show_icons=true&theme=radium&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam3tEfe&theme=radium&hide_border=true" width="48%" />
 </div>
 
 ---
