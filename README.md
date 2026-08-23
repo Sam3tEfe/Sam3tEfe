@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    Embedded+Systems+Enthusiast;Backend+Developer+(Java+%2F+Spring);Network+%26+Linux+Admin" alt="Typing SVG" />
+    <Embedded+Systems+Enthusiast;Backend+Developer+(Java+%2F+Spring);Network+%26+Linux+Admin" alt="Typing SVG" />
   
 
 
