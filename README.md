@@ -2,13 +2,13 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&width=500&lines=Elektrik-Elektronik+M%C3%BChendisli%C4%9Fi;Donan%C4%B1m+%26+Yaz%C4%B1l%C4%B1m;IT+Sistemleri+%26+A%C4%9F+Y%C3%B6netimi" alt="Typing SVG" />
-  </a>
-</div>
+    Embedded+Systems;IT+Infrastructure+%26+Networking" alt="Typing SVG" />
+  
+
 
 <br>
 
-### 🎓 Elektrik-Elektronik Mühendisliği Öğrencisi
+### Elektrik-Elektronik Mühendisliği Öğrencisi
 
 > **Kırklareli** Kırklareli Üniversitesi Elektrik-Elektronik Mühendisliği öğrencisiyim. Donanımın çalışma mantığından IT sistemlerine ve yazılım geliştirmeye kadar teknolojinin birçok farklı katmanında kendimi eğitiyorum. Amacım, öğrendiğim her yeni bilgiyi koda ve pratiğe dökerek kendimi sürekli geliştirmeye devam etmek.
 
@@ -69,7 +69,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sam3tEfe&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam3tEfe&theme=radium&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam3tEfe&theme=transparent&hide_border=true" width="48%" />
 </div>
 
 ---
