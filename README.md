@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    Embedded+Systems;IT+Infrastructure+%26+Networking" alt="Typing SVG" />
+    <Embedded+Systems;IT+Infrastructure+%26+Networking" alt="Typing SVG" />
   
 
 
