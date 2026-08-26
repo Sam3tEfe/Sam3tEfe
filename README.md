@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/Arduino-%23000000.svg?style=for-the-badge&logo=Arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-%23000000.svg?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco_Switch-%23000000.svg?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco_Router-%23000000.svg?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Fortinet-%23000000.svg?style=for-the-badge&logo=fortinet&logoColor=white" />
 </p>
 
@@ -57,13 +58,13 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=100&section=header&text=Nelerle%20Ugrasiyorum&fontSize=35&fontColor=ffffff&animation=fadeIn" width="420" alt="Nelerle Uğraşıyorum?" />
 </p>
 
-**Aktif Olarak:** Bir yandan TÜBİTAK destekli mikroşerit yama anten projesinde donanım tasarımı yapıyor, diğer yandan BT altyapıları için FortiGate firewall ve Cisco switch yönetim pratikleri gerçekleştiriyorum.
+**Aktif Olarak:** Bir yandan TÜBİTAK destekli mikroşerit yama anten projesinde donanım tasarımı yapıyor, diğer yandan BT altyapıları için FortiGate firewall, Cisco router ve switch yönetim pratikleri gerçekleştiriyorum.
 
-**Öğrendiklerim:** Gömülü sistemler tarafında Arduino ve ESP32 ile başladığım yolculuğu, STM32 mimarisi ve C programlama ile derinleştiriyorum. Fakat sadece donanımla yetinmeyip işin altyapı ve güvenlik boyutunu da kavramak için, Cisco switch ve FortiGate firewall cihazlarını yapılandırarak IT ve siber güvenlik alanlarında kendimi eğitiyorum.
+**Öğrendiklerim:** Gömülü sistemler tarafında Arduino ve ESP32 ile başladığım yolculuğu, STM32 mimarisi ve C programlama ile derinleştiriyorum. Fakat sadece donanımla yetinmeyip işin altyapı ve güvenlik boyutunu da kavramak için; Cisco router, switch ve FortiGate firewall cihazlarını yapılandırarak IT ve siber güvenlik alanlarında kendimi eğitiyorum.
 
 **Hedeflerim:** Tek bir alanla kısıtlı kalmadan; donanım, yazılım ve IT dünyalarının kesişimini keşfetmek ve fırsat bulduğum her an kendimi olabildiğince geliştirerek mühendislik becerilerimi en üst noktaya taşımak.
 
-**Sohbet & İş Birliği:** STM32 donanım arayüzleri, Cisco/FortiGate ağ yapılandırmaları ve CST Studio anten simülasyonları hakkında sohbet edebilir veya hayata geçirmek istediğiniz yeni proje fikirleri için bir takım arkadaşı arıyorsanız benimle iletişime geçebilirsiniz.
+**Sohbet & İş Birliği:** STM32 donanım arayüzleri, Cisco/FortiGate ağ ve router/switch yapılandırmaları ve CST Studio anten simülasyonları hakkında sohbet edebilir veya hayata geçirmek istediğiniz yeni proje fikirleri için bir takım arkadaşı arıyorsanız benimle iletişime geçebilirsiniz.
 
 <div align="center">
 </div>
