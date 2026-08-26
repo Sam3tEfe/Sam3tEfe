@@ -32,7 +32,7 @@
   <a href="#"><img src="https://img.shields.io/badge/ESP32-%23000000.svg?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Cisco_Switch-%23000000.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Switch" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Cisco_Router-%23000000.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Router" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Fortinet-%23000000.svg?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Fortinet_Firewall-%23000000.svg?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet Firewall" /></a>
 </p>
 
 #### Araçlar & Teknolojiler
