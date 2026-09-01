@@ -5,7 +5,7 @@
 <br>
 
 <p align="left">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=100&section=header&text=Hakkimda&fontSize=45&fontColor=ffffff&animation=fadeIn" width="420" alt="Hakkımda" /></a>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=100&section=header&text=Hakkımda&fontSize=45&fontColor=ffffff&animation=fadeIn" width="420" alt="Hakkımda" /></a>
 </p>
 
 **Kırklareli Üniversitesi Elektrik-Elektronik Mühendisliği öğrencisiyim. Donanımın çalışma mantığından IT sistemlerine ve yazılım geliştirmeye kadar teknolojinin birçok farklı katmanında kendimi eğitiyorum. Amacım, öğrendiğim her yeni bilgiyi koda ve pratiğe dökerek kendimi sürekli geliştirmeye devam etmek.**
@@ -13,7 +13,7 @@
 ---
 
 <p align="left">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=100&section=header&text=Teknolojiler%20ve%20Araclar&fontSize=40&fontColor=ffffff&animation=fadeIn" width="480" alt="Teknolojiler ve Araçlar" /></a>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=100&section=header&text=Teknolojiler%20ve%20Araçlar&fontSize=40&fontColor=ffffff&animation=fadeIn" width="480" alt="Teknolojiler ve Araçlar" /></a>
 </p>
 
 #### Programlama Dilleri
@@ -55,7 +55,7 @@
 ---
 
 <p align="left">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=100&section=header&text=Nelerle%20Ugrasiyorum&fontSize=45&fontColor=ffffff&animation=fadeIn" width="420" alt="Nelerle Uğraşıyorum?" /></a>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=100&section=header&text=Nelerle%20Uğraşıyorum&fontSize=45&fontColor=ffffff&animation=fadeIn" width="420" alt="Nelerle Uğraşıyorum?" /></a>
 </p>
 
 **Aktif Olarak:** Bir yandan TÜBİTAK destekli mikroşerit yama anten projesinde donanım tasarımı yapıyor, diğer yandan BT altyapıları için FortiGate firewall, Cisco router ve switch yönetim pratikleri gerçekleştiriyorum.
@@ -69,7 +69,7 @@
 ---
 
 <p align="left">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=100&section=header&text=Benimle%20Iletisime%20Gecin&fontSize=40&fontColor=ffffff&animation=fadeIn" width="450" alt="Benimle İletişime Geçin" /></a>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=100&section=header&text=Benimle%20İletişime%20Geçin&fontSize=40&fontColor=ffffff&animation=fadeIn" width="450" alt="Benimle İletişime Geçin" /></a>
 </p>
 
 <p>
