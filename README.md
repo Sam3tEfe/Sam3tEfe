@@ -5,18 +5,18 @@
 <br>
 
 <p align="left">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=100&section=header&text=Hakkımda&fontSize=45&fontColor=ffffff&animation=fadeIn" width="420" alt="Hakkımda" /></a>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=100&section=header&text=About%20Me&fontSize=45&fontColor=ffffff&animation=fadeIn" width="420" alt="About Me" /></a>
 </p>
 
-**Kırklareli Üniversitesi Elektrik-Elektronik Mühendisliği öğrencisiyim. Donanımın çalışma mantığından IT sistemlerine ve yazılım geliştirmeye kadar teknolojinin birçok farklı katmanında kendimi eğitiyorum. Amacım, öğrendiğim her yeni bilgiyi koda ve pratiğe dökerek kendimi sürekli geliştirmeye devam etmek.**
+**I am an Electrical and Electronics Engineering student at Kırklareli University. I am educating myself across multiple layers of technology, from the working principles of hardware to IT systems and software development. My goal is to continually improve myself by turning every piece of new knowledge into code and practice.**
 
 ---
 
 <p align="left">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=100&section=header&text=Teknolojiler%20ve%20Araçlar&fontSize=40&fontColor=ffffff&animation=fadeIn" width="480" alt="Teknolojiler ve Araçlar" /></a>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=100&section=header&text=Technologies%20and%20Tools&fontSize=40&fontColor=ffffff&animation=fadeIn" width="480" alt="Technologies and Tools" /></a>
 </p>
 
-#### Programlama Dilleri
+#### Programming Languages
 <p>
   <a href="#"><img src="https://img.shields.io/badge/C-%23000000.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" /></a>
   <a href="#"><img src="https://img.shields.io/badge/C%23-%23000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /></a>
@@ -25,7 +25,7 @@
   <a href="#"><img src="https://img.shields.io/badge/HTML%2FCSS-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS" /></a>
 </p>
 
-#### Mikrodenetleyiciler & Donanım
+#### Microcontrollers & Hardware
 <p>
   <a href="#"><img src="https://img.shields.io/badge/STM32-%23000000.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Arduino-%23000000.svg?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" /></a>
@@ -35,7 +35,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Fortinet_Firewall-%23000000.svg?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet Firewall" /></a>
 </p>
 
-#### Araçlar & Teknolojiler
+#### Tools & Technologies
 <p>
   <a href="#"><img src="https://img.shields.io/badge/STM32CubeIDE-%23000000.svg?style=for-the-badge" alt="STM32CubeIDE" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Arduino_IDE-%23000000.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE" /></a>
@@ -46,7 +46,7 @@
   <a href="#"><img src="https://img.shields.io/badge/IntelliJ-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" /></a>
 </p>
 
-#### Mühendislik & Simülasyon
+#### Engineering & Simulation
 <p>
   <a href="#"><img src="https://img.shields.io/badge/CST_Studio-%23000000.svg?style=for-the-badge" alt="CST Studio" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Packet_Tracer-%23000000.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer" /></a>
@@ -55,21 +55,21 @@
 ---
 
 <p align="left">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=100&section=header&text=Nelerle%20Uğraşıyorum&fontSize=45&fontColor=ffffff&animation=fadeIn" width="420" alt="Nelerle Uğraşıyorum?" /></a>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=100&section=header&text=What%20I'm%20Working%20On&fontSize=45&fontColor=ffffff&animation=fadeIn" width="420" alt="What I'm Working On" /></a>
 </p>
 
-**Aktif Olarak:** Bir yandan TÜBİTAK destekli mikroşerit yama anten projesinde donanım tasarımı yapıyor, diğer yandan BT altyapıları için FortiGate firewall, Cisco router ve switch yönetim pratikleri gerçekleştiriyorum.
+**Currently Active:** On one hand, I am designing hardware for a TÜBİTAK-supported microstrip patch antenna project; on the other hand, I am actively practicing FortiGate firewall, Cisco router, and switch management for IT infrastructures.
 
-**Öğrendiklerim:** Gömülü sistemler tarafında Arduino ve ESP32 ile başladığım yolculuğu, STM32 mimarisi ve C programlama ile derinleştiriyorum. Fakat sadece donanımla yetinmeyip işin altyapı ve güvenlik boyutunu da kavramak için; Cisco router, switch ve FortiGate firewall cihazlarını yapılandırarak IT ve siber güvenlik alanlarında kendimi eğitiyorum.
+**What I Am Learning:** In embedded systems, I am deepening the journey I started with Arduino and ESP32 into the STM32 architecture and C programming. However, not limiting myself to just hardware, I am also educating myself in IT and cybersecurity by configuring Cisco routers, switches, and FortiGate firewalls to grasp the infrastructure and security aspects.
 
-**Hedeflerim:** Tek bir alanla kısıtlı kalmadan; donanım, yazılım ve IT dünyalarının kesişimini keşfetmek ve fırsat bulduğum her an kendimi olabildiğince geliştirerek mühendislik becerilerimi en üst noktaya taşımak.
+**My Goals:** Without being confined to a single domain, exploring the intersection of hardware, software, and IT worlds, and taking my engineering skills to the highest level by improving myself as much as possible at every opportunity.
 
-**Sohbet & İş Birliği:** STM32 donanım arayüzleri, Cisco/FortiGate ağ ve router/switch yapılandırmaları ve CST Studio anten simülasyonları hakkında sohbet edebilir veya hayata geçirmek istediğiniz yeni proje fikirleri için bir takım arkadaşı arıyorsanız benimle iletişime geçebilirsiniz.
+**Chat & Collaboration:** Feel free to reach out to me to talk about STM32 hardware interfaces, Cisco/FortiGate network and router/switch configurations, and CST Studio antenna simulations, or if you are looking for a teammate to bring new project ideas to life.
 
 ---
 
 <p align="left">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=100&section=header&text=Benimle%20İletişime%20Geçin&fontSize=40&fontColor=ffffff&animation=fadeIn" width="450" alt="Benimle İletişime Geçin" /></a>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=100&section=header&text=Get%20in%20Touch&fontSize=40&fontColor=ffffff&animation=fadeIn" width="450" alt="Get in Touch" /></a>
 </p>
 
 <p>
